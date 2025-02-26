@@ -1,0 +1,10 @@
+streamlit
+pymupdf
+python-docx
+google-generativeai
+VaderSentiment
+groq
+PyPDF2
+requests
+plotly
+pandas
